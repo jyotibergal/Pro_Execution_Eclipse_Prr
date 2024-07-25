@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;Sample1&apos; to &apos;3rdFebGitHub&apos;&#x0D;&#x0A;- Original project: &apos;3rdFebGitHubUsingCMD&apos;&#x0D;&#x0A;- Destination element: &apos;3rdFebGitHub&apos;&#x0D;&#x0A;- Original element: &apos;3rdFebGitHubUsingCMD/src/Sample1&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" element1="/src&lt;Sample1" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1721814682374" target="3rdFebGitHub" version="1.0"/>
+</session>

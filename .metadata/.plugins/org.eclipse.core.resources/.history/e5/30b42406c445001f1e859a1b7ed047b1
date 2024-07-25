@@ -1,0 +1,5 @@
+package LogicalPgm_ExternalMock;
+
+public class Example1_Armstrong_number {
+
+}

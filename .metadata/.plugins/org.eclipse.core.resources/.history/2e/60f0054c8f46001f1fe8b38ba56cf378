@@ -1,0 +1,28 @@
+package LogicalPgm_ExternalMock;
+
+public class Example1_Armstrong_number
+{
+
+    public static void main(String[] args) 
+    {
+		int OrgNum=120;  //1+ 8 + 0 = 9
+		int sum=0;  //9 
+		           // 120  0>0  120/10 =12/10 = 1/10
+		for(int i =OrgNum;i>0;i=i/10)
+		{
+			int rem=i%10;     //1%10=1
+			sum=sum+(rem*rem);   // 8+1=9
+		}
+		if(OrgNum==sum)
+		{
+			System.out.println("given number "+ OrgNum + "is an armstrong number");
+			
+		}
+		else
+		{
+			System.out.println("given number "+ OrgNum + "is not an armstrong number");
+	
+		}
+    }
+
+}

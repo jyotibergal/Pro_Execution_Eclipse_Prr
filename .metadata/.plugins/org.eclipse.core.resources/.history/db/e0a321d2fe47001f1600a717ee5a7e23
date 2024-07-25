@@ -1,0 +1,11 @@
+package Excel;
+
+public class example1_getStringData 
+{
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}

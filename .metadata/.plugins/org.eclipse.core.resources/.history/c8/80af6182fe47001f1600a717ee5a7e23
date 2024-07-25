@@ -1,0 +1,20 @@
+package ExcelSheet; 
+import java.io.FileInputStream;
+import java.io.IOException;
+
+import org.apache.poi.EncryptedDocumentException;
+public class Example1_getStringData 
+{
+
+
+public static void main(String[] args) throws EncryptedDocumentException, IOException
+{
+	//navigate to excel path
+	FileInputStream file=new FileInputStream("C:\\Users\\Shankar Padalkar\\Desktop\\3rdFebSelenium\\SeleniumSoftware\\3rdfebEvening.xlsx"); 
+	
+		 
+	
+	}
+
+}
+

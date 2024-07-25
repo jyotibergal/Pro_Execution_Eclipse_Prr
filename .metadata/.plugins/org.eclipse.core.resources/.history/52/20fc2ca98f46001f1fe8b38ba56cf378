@@ -1,0 +1,15 @@
+package LogicalPgm_ExternalMock;
+
+import java.util.Scanner;
+
+public class Example1_accept_inputFrom_user 
+{
+  public static void main(String[] args) 
+  {
+	
+	  Scanner scan=new Scanner(System.in);
+	  System.out.println("Enter Name of Student:");
+	  String sname=scan.next();
+	  System.out.println(sname.length());
+  }
+}
